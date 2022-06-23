@@ -6,7 +6,7 @@ Today has been the right moment to explore some of Core ML capabilities, and I c
 
 As input parameters the app will request the user to provide it with the time when waking up, the effective number of sleeping hours, and the amount of coffee in cups drank during the day. On the other hand, the app will predict what time the user should go to bed.
 
-Main used features:
+Main features used:
 
 Picker: UI input component that allows the user to provide the system with a certain value picked out from a range of values.
 
